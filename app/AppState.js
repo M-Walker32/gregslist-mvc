@@ -36,17 +36,17 @@ class AppState extends EventEmitter {
     new Job({
       title: 'Pumpkin Eater',
       pay: '$3 per hour',
-      qualifications: 'Enjoys the taste of pumpkin, reltaivly large stomach.',
+      qualifications: 'Enjoys the taste of pumpkin, relativly large stomach.',
       description: 'YOu eats lots of pumpkin. AND YOU DONT COMPLAIN!!!!',
       image: 'https://miro.medium.com/max/1200/1*g0H2lo3zmfDhPoPB8nXA2Q.jpeg'
     }),
     new Job({
       title: 'Pumpkin Eater',
       pay: '$3 per hour',
-      qualifications: 'Enjoys the taste of pumpkin, reltaivly large stomach.',
+      qualifications: 'Enjoys the taste of pumpkin, relativly large stomach.',
       description: 'YOu eats lots of pumpkin. AND YOU DONT COMPLAIN!!!!',
       image: 'https://miro.medium.com/max/1200/1*g0H2lo3zmfDhPoPB8nXA2Q.jpeg'
-    }),
+    })
   ]
 }
 
